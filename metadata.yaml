@@ -1,0 +1,39 @@
+_repo: Vie-de-Tolstoy_37951
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37951-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37951'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Novelists, Russian -- 19th century -- Biography'
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910'
+tableOfContents: 'La lumière qui vient de s''éteindre -- Histoire de mon Enfance --
+  Les récits du Caucase -- Les Cosaques -- Récits de Sébastopol -- Trois Morts --
+  Bonheur Conjugal -- Guerre et Paix -- Anna Karénine -- Les Confessions et la crise
+  religieuse -- La crise sociale: Que devons-nous faire? -- La critique de l''Art
+  -- Les Contes Populaires -- La Puissance des Ténèbres -- La Mort d''Ivan Iliitch
+  -- La Sonate à Kreutzer -- Résurrection -- Les idées sociales de Tolstoï -- Sa figure
+  avait pris les traits définitifs -- Le combat était terminé -- Les œuvres posthumes
+  de Tolstoy -- La réponse de l''Asie à Tolstoy -- Lettre écrite par Tolstoy, deux
+  mois avant sa mort, à Gandhi -- Liste chronologique des Œuvres de Tolstoy.'
+title: Vie de Tolstoï
+url: http://www.gutenberg.org/ebooks/37951
